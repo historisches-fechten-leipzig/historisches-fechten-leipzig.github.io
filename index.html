@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <p>Dies ist die Website von ein paar <a href="http://de.wikipedia.org/wiki/Historische_Kampfk%C3%BCnste_Europas">HEMA</a>-Enthusiasten aus Leipzig. HEMA steht für historical european marital arts und meint die historischen Kampfsysteme im europäischen Mittelalter. Die Seite erhebt keinen Anspruch auf Richtigkeit, Vollständigkeit oder sonstiges, sondern dient dem Austausch untereinander und der Information von Außenstehenden. Wer anfangen möchte, kann über den <a href="http://hochschulsport.uni-leipzig.de/angebote/aktueller_zeitraum/_Fechten_mit_historischen_Waffen.html">Hochschulsport der Universität Leipzig</a> hereinschnuppern.</p>
+
+  <p>Auf GitHub befinden sich außerdem von uns zusammengestellte Beschreibungen zu Techniken für und Umgang mit <a href="https://github.com/historisches-fechten-leipzig/fechtbuch-langschwert/">Langschwert</a>, <a href="https://github.com/historisches-fechten-leipzig/fechtbuch-messer/">Messer</a> und <a href="https://github.com/historisches-fechten-leipzig/fechtbuch-stock/">Stock</a>.</p>
+
+  <h1 class="page-heading">Beiträge</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">
+          {% assign m = post.date | date: "%-m" %}{{ post.date | date: "%-d." }}
+            {% case m %}
+              {% when '1' %}Januar
+              {% when '2' %}Februar
+              {% when '3' %}M&auml;rz
+              {% when '4' %}April
+              {% when '5' %}Mai
+              {% when '6' %}Juni
+              {% when '7' %}Juli
+              {% when '8' %}August
+              {% when '9' %}September
+              {% when '10' %}Oktober
+              {% when '11' %}November
+              {% when '12' %}Dezember
+            {% endcase %}
+          {{ post.date | date: "%Y" }}
+        </span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS-Feed</a> abonnieren</p>
+
+</div>
