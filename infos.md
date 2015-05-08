@@ -6,8 +6,8 @@ permalink: /infos/
 
 ## Selbsorganisiertes Training
 
-Was? Wiederholung von Techniken,   
-Wann? Sonntag, 14:30 Uhr bis  
+Was? Wiederholung von Techniken  
+Wann? Sonntag, 14:30 Uhr bis ??:??  
 Wo? Leipzig, Lene-Voigt-Park, Nähe Volleyballfelder
 
 ## Links

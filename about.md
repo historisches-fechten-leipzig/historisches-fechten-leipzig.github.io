@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impressum
-permalink: /impressum/
+permalink: /about/
 ---
 
 P a u l  J ä h n e
