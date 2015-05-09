@@ -13,11 +13,11 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #ddd;
+$background-color: #333;
+$brand-color:      #70dc34;
 
-$grey-color:       #828282;
+$grey-color:       #9e9e9e;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
@@ -50,3 +50,24 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.site-header {
+    border-top: 5px solid $brand-color;
+}
+
+a {
+    color: $brand-color;
+
+    &:visited {
+        color: $brand-color;
+    }
+
+    &:hover {
+        color: darken($brand-color, 15%);
+    }
+}
+
+body {
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
