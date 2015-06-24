@@ -4,31 +4,19 @@ title: Infos
 permalink: /infos/
 ---
 
-## Selbsorganisiertes Training
-
-Was? Wiederholung von Techniken  
-Wann? Sonntag, 14:30 Uhr bis ??:??  
-Wo? Leipzig, Lene-Voigt-Park, Nähe Volleyballfelder
-
-<iframe id="anmeldung" src="http://www.sandalas.de/projects/hfl/index.html" frameBorder="0" onload="AdjustIframeHeightOnLoad()" width="740px" height="400px">
-	<p>Dein Browser unterstützt IFrames nicht.</p>
-</iframe>
-
-## Links
-
 Hier ist eine Auflistung verschiedener nützlicher Links rund um das Thema HEMA.
 
-### YouTube-Kanäle
+## YouTube-Kanäle
 
 - [Sword Carolina](http://www.youtube.com/user/KASLKdF/videos): Technik- und Sparring-Videos
 - [Skallagrim](http://www.youtube.com/user/SkallagrimNilsson/videos): Sparring-, Review- und Diskussions-Videos
 - [Schola Gladiatoria](https://www.youtube.com/user/scholagladiatoria/videos): Sparring-, Review- und Diskussions-Videos
 
-### Wiki
+## Wiki
 
 - [Wiktenauer](http://wiktenauer.com/wiki/Main_Page): Manuskripte
 
-### Bücher
+## Bücher
 
 - Konrad Kessler: [Kampf mit dem langen Schwert](http://www.amazon.de/langen-Schwert-Grundlagen-Schwertkampfs-Fechtkunst/dp/3878920911)
 
