@@ -2,6 +2,7 @@
 layout: page
 title: Infos
 permalink: /infos/
+group: "navbar"
 ---
 
 Hier ist eine Auflistung verschiedener nützlicher Links rund um das Thema HEMA.

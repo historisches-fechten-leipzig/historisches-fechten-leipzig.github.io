@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Selbsorganisiertes Training
+title: Training
 permalink: /training/
+group: "navbar"
 ---
 
 Was? Wiederholung von Techniken

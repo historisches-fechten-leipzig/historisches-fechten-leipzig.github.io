@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 5px solid $brand-color;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -34,11 +34,20 @@
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
+        padding: 0.1em 0.3em;
+        border-radius: 3px;
 
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
+        &:not(.active):hover {
+            background-color: darken($background-color, 10%);
+            color: darken($brand-color, 10%);
+            text-shadow: none;
         }
+    }
+
+    .active {
+        background-color: $brand-color;
+        color: $background-color;
+        text-shadow: none;
     }
 
     @include media-query($on-palm) {
@@ -247,4 +256,3 @@
         }
     }
 }
-
