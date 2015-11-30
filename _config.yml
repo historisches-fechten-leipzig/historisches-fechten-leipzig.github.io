@@ -2,7 +2,7 @@
 title: Historisches Fechten Leipzig
 description: Informationen, Links und anderes zum Fechten mit historischen Waffen
 baseurl: ""
-url: "https://historisches-fechten-leipzig.github.io" # the base hostname & protocol for your site
+url: "http://historisches-fechten-leipzig.github.io" # the base hostname & protocol for your site
 github_username: historisches-fechten-leipzig
 
 # Build settings
