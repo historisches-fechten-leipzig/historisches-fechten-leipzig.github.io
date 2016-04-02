@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Swordfish 2015 Livestream"
-date:   2015-10-26 11:20:00
+date:   2015-10-26 11:20:00 +0100
 author: Paul Jähne
 ---
 

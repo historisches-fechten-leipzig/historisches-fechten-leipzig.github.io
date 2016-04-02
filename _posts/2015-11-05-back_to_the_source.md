@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Back to the Source"
-date:   2015-11-05 14:50:00
+date:   2015-11-05 14:50:00 +0100
 author: Paul Jähne
 ---
 

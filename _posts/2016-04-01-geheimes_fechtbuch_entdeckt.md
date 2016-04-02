@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Geheimes Fechtbuch entdeckt!"
-date:   2016-04-01 12:00:00
+date:   2016-04-01 12:00:00 +0100
 author: Paul Jähne
 ---
 

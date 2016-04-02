@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Johann Georg Pascha Turnier - Nachlese"
-date:   2015-12-01 17:00:00
+date:   2015-12-01 17:00:00 +0100
 author: Paul Jähne
 ---
 

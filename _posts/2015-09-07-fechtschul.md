@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fechtschul der Klopffechter"
-date:   2015-09-08 15:31:00
+date:   2015-09-08 15:31:00 +0100
 author: Paul Jähne
 ---
 

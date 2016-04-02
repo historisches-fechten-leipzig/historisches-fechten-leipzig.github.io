@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fechtzirkel Leipzig"
-date:   2015-06-24 11:22:30
+date:   2015-06-24 11:22:30 +0100
 author: Paul Jähne
 ---
 

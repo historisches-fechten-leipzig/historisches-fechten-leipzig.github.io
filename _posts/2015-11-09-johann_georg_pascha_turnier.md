@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Johann Georg Pascha Turnier"
-date:   2015-11-09 17:00:00
+date:   2015-11-09 17:00:00 +0100
 author: Paul Jähne
 ---
 
