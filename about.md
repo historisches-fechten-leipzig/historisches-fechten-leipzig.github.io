@@ -12,4 +12,3 @@ p a u l . j a e h n e @ g m x . d e
 # Technisches
 
 Diese Website wurde mit [Jekyll](http://jekyllrb.com) erstellt. Das verwendete Theme basiert auf dem Standard-Jekyll-Theme.
-

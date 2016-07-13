@@ -12,4 +12,3 @@ Wo? Leipzig, im Süden vom [Friedenspark](http://www.openstreetmap.org/way/33134
 <iframe id="anmeldung" src="http://www.sandalas.de/projects/hfl/index.html" frameBorder="0" width="755px" height="400px">
 	<p>Dein Browser unterstützt IFrames nicht.</p>
 </iframe>
-

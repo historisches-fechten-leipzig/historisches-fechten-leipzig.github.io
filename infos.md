@@ -26,4 +26,3 @@ Hier ist eine Auflistung verschiedener nützlicher Links rund um das Thema HEMA.
 - [Kunst des Fechtens - Leipzig](http://www.historical-weapons-combat.de/index.php/kdf-leipzig.html)
 - [two swords](https://twoswords.wordpress.com/)
 - [Stahlakademie](http://www.stahlakademie.net/)
-
