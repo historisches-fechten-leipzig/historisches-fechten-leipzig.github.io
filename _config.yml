@@ -1,12 +1,25 @@
 # Site settings
-title: Historisches Fechten Leipzig
-description: Informationen, Links und anderes zum Fechten mit historischen Waffen
+title: "Historisches Fechten Leipzig"
+email: >
+  <script language="javascript">
+    a = "paul";
+    b = "jaehne";
+    c = "@";
+    d = "gmx";
+    e = "de";
+    f = a + "." + b + c + d + "." + e;
+    document.write("<a href=\"mailto:" + f + "\">" + f + "</a>");
+  </script>
+  <noscript>
+    <a href="mailto:bat.man@waynecorp.com">bat.man@waynecorp.com</a> Please enable JavaScript!
+  </noscript>
+description: "Informationen, Links und anderes zum Fechten mit historischen Waffen"
 baseurl: ""
 url: "http://historisches-fechten-leipzig.github.io" # the base hostname & protocol for your site
-github_username: historisches-fechten-leipzig
+github_username: "historisches-fechten-leipzig"
 
 # Build settings
-markdown: kramdown
+markdown: "kramdown"
 
 kramdown:
-  input: GFM
+  input: "GFM"
