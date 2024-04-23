@@ -24,5 +24,10 @@ Hier ist eine Auflistung verschiedener nützlicher Links rund um das Thema HEMA.
 ## Vereine in Leipzig
 
 - [Kunst des Fechtens - Leipzig](http://www.historical-weapons-combat.de/index.php/kdf-leipzig.html)
-- [two swords](https://twoswords.wordpress.com/)
+- [Leipziger Klingen e. V.](https://leipziger-klingen.de/)
 - [Stahlakademie](http://www.stahlakademie.net/)
+
+## Weitere Vereine in der Region
+
+- [INDES Halle](https://www.indes-fechtkuenste.de/)
+- [two swords](https://twoswords.wordpress.com/)
