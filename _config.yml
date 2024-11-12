@@ -15,7 +15,7 @@ email: >
   </noscript>
 description: "Informationen, Links und anderes zum Fechten mit historischen Waffen"
 baseurl: ""
-url: "http://historisches-fechten-leipzig.github.io" # the base hostname & protocol for your site
+url: "https://historisches-fechten-leipzig.github.io/" # the base hostname & protocol for your site
 github_username: "historisches-fechten-leipzig"
 
 # Build settings

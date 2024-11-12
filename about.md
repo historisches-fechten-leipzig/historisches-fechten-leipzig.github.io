@@ -15,4 +15,4 @@ Germany
 
 # Technisches
 
-Diese Website wurde mit [Jekyll](http://jekyllrb.com) erstellt. Das verwendete Theme basiert auf dem Standard-Jekyll-Theme [minima](https://github.com/jekyll/minima/).
+Diese Website wurde mit [Jekyll](https://jekyllrb.com/) erstellt. Das verwendete Theme basiert auf dem Standard-Jekyll-Theme [minima](https://github.com/jekyll/minima/).
