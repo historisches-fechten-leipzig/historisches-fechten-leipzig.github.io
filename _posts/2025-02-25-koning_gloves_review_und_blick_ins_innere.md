@@ -23,3 +23,7 @@ Wie man sehen kann, besteht der Handschuh aus verschiedenen Schichten. Von auße
 Als Ersatz für die Handschuhe habe ich nun [Koning Gloves Nobilis Edition](https://saintmark.se/produkt/koning-gloves/) bestellt, die mittlerweile auch angekommen sind. Von meinen ersten Erfahrungen mit ihnen werde ich demnächst berichten können.
 
 ![Koning Glove Nobilis Edition verpackt](/images/2025-02-25-koning-glove-nobilis-edition-verpackt.jpg)
+
+Update: Ich habe auf Reddit noch ein Foto von komplett zerlegten Koning Gloves gefunden:
+
+[![Koning Glove komplett zerlegt](https://preview.redd.it/qfngz6j2wble1.jpeg?width=2080&format=pjpg&auto=webp&s=fdfc417a12aef1b2f4ba4f0b7a77b04f65883d10)](https://preview.redd.it/qfngz6j2wble1.jpeg?width=2080&format=pjpg&auto=webp&s=fdfc417a12aef1b2f4ba4f0b7a77b04f65883d10)
