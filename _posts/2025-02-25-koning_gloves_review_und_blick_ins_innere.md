@@ -16,7 +16,7 @@ Zu Beginn waren sie durch das äußere Leder sehr steif und mussten erstmal orde
 
 Beim [letzten Turnier]({% post_url 2024-11-19-turnier_und_seminarwochenende_nachlese %}) sind meine Handschuhe leider kaputtgegangen. Die Situation, in der sie kaputtgingen, war etwas unglücklich: In einem Gefecht bekam ich einen Stich auf die Innenseite des Handschuhs am kleinen Finger der rechten Hand ab, während ich in den linken Ochs wechselte. Dieser Stich traf nur den Handschuh ohne die Hand darin, wodurch die Hand nicht bewegt wurde und daher die Kraft des Stichs voll in den Handschuh ging. Durch den Stich riss so der lederne Außenhandschuh am kleinen Finger auf. Das Leder auf der Handinnenseite hatte durch den langen Gebrauch bereits starke Verschleißspuren, vielleicht hätte es ein neuer Handschuh ausgehalten. Dass der Handschuh kaputt gegangen sind, ist schade, ermöglicht nun aber einen Blick ins Innere:
 
-![Koning Glove Blick ins innere](/images/2025-02-25-koning-glove-innenleben.jpg)
+![Koning Glove Blick ins Innere](/images/2025-02-25-koning-glove-innenleben.jpg)
 
 Wie man sehen kann, besteht der Handschuh aus verschiedenen Schichten. Von außen nach innen sind das: Außenhandschuh aus Leder, Polsterung aus dickerem Schaumstoff (scheint nicht überall im Handschuh vorhanden zu sein), harte Platten aus Plastik, Polsterung aus dünnerem Schaumstoff, Polsterung aus Gummi und der Innenhandschuh aus Stoff. Damit die Schichten zusammenhalten, sind sie an verschiedenen Stellen mit Tape umwickelt. Die Platten aus Plastik scheinen dabei nicht überlappend angeordnet zu sein, die Spalten dazwischen sind aber sehr klein und scheinen durch die anderen schichten  gut abgedeckt zu sein.
 
