@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Konging Gloves Nobilis Edition Ersteindruck"
+title:  "Koning Gloves Nobilis Edition Ersteindruck"
 date:   2025-07-11 15:22:00 +0200
 author: Paul Jähne
 ---

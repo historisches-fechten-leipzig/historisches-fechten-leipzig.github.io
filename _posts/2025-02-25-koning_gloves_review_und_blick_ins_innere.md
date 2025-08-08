@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Konging Gloves Review und Blick ins Innere"
+title:  "Koning Gloves Review und Blick ins Innere"
 date:   2025-02-25 21:29:00 +0100
 author: Paul Jähne
 ---
