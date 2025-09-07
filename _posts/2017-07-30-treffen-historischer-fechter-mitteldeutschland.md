@@ -5,7 +5,7 @@ date:   2017-07-30 11:35:00 +0100
 author: Paul Jähne
 ---
 
-Vergangenes Wochenende fand das [3. Treffen historischer Fechter Mitteldeutschland](https://www.facebook.com/Treffen-Historischer-Fechter-Deutschland-142616439591018/) statt. Dies ist eine Wanderveranstaltung zum Austausch der Gruppen untereinander und wurde dieses Jahr von [Twerchhau](http://twerchhau.de/) ausgerichtet.
+Vergangenes Wochenende fand das [3. Treffen historischer Fechter Mitteldeutschland](https://www.facebook.com/Treffen-Historischer-Fechter-Deutschland-142616439591018/) statt. Dies ist eine Wanderveranstaltung zum Austausch der Gruppen untereinander und wurde dieses Jahr von [Twerchhau](https://www.twerchhau.de/) ausgerichtet.
 
 Neben Seminaren zu üblichen Themen wie Ringen, Dolch und Langschwert gab es dieses Jahr auch zwei Seminare zu exotischeren Waffen: das Montante und Mangual. Das Montante ist ein großes, zweihändig geführtes Schwert, das mit Rotationen als Flächenwaffe eingesetzt wird. Beim Mangual handelt es sich um eine Art Flegel mit mehreren Ketten, an deren Ende Metallkugeln befestigt sind. Dieses wird ebenfalls mit rotierenden Bewegungen eingesetzt. Neben den Seminaren gab es auch genügend Zeit und Platz, um im Sparring das Gelernte auszuprobieren und auf andere Fechtstile zu treffen.
 

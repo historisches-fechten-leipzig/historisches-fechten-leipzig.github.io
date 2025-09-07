@@ -5,7 +5,7 @@ date:   2015-09-08 15:31:00 +0100
 author: Paul Jähne
 ---
 
-Die diesjährige [Fechtschul der Klopffechter](http://fechtschul.de) fand am vergangenen Wochenende statt. Die Veranstaltung dient hauptsächlich dem Erfahrungsaustausch rund um das Thema [HEMA](http://de.wikipedia.org/wiki/Historische_Kampfk%C3%BCnste_Europas). Dazu wurden unter anderem verschiedene Seminare angeboten und Schnitttests durchgeführt. Natürlich bestand auch außerhalb der geplanten Veranstaltungen die Möglichkeit zum Austausch oder auch für ein Sparring.
+Die diesjährige [Fechtschul der Klopffechter](http://fechtschul.de) fand am vergangenen Wochenende statt. Die Veranstaltung dient hauptsächlich dem Erfahrungsaustausch rund um das Thema [HEMA](https://de.wikipedia.org/wiki/Historische_Kampfk%C3%BCnste_Europas). Dazu wurden unter anderem verschiedene Seminare angeboten und Schnitttests durchgeführt. Natürlich bestand auch außerhalb der geplanten Veranstaltungen die Möglichkeit zum Austausch oder auch für ein Sparring.
 
 ![Schnitttest Matte](/images/2015-09-08-fechtschul-schnitttest-matte.jpg)
 
